@@ -72,3 +72,8 @@
     scale: 1.2;
     transition: 0.4s;
 }
+
+.logo p {
+    font-family: Cookie, sans-serif;
+    font-size: 40px;
+}
